@@ -23,7 +23,7 @@ public class Options_menu extends Activity implements OnClickListener{
 	public void onClick(View v)
     {
     	if(v.getId() == R.id.show_GPS_position)
-    	{
+    	{ chuj chuj
     		Intent Options_Intent = new Intent(this,Options_menu.class);
     		startActivity(Options_Intent);
     	}
